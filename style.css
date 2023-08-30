@@ -1,0 +1,24 @@
+
+
+.gojo{
+    border-radius:10%;
+}
+.gradient-background {
+    background: linear-gradient(300deg, #2ca432, #7d05ee, #94497e);
+    background-size: 180% 180%;
+    animation: gradient-animation 5s ease infinite;
+
+  }
+
+
+  .container{
+    padding: 0;
+    margin: 0;
+   
+   
+  }
+  .container{
+    margin-left: 30px;
+  }
+
+  
